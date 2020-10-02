@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/quiz-app/static/js/main.0def6178.chunk.js",
+    "main.js.map": "/quiz-app/static/js/main.0def6178.chunk.js.map",
+    "runtime-main.js": "/quiz-app/static/js/runtime-main.4f483d45.js",
+    "runtime-main.js.map": "/quiz-app/static/js/runtime-main.4f483d45.js.map",
+    "static/js/2.eb65fa21.chunk.js": "/quiz-app/static/js/2.eb65fa21.chunk.js",
+    "static/js/2.eb65fa21.chunk.js.map": "/quiz-app/static/js/2.eb65fa21.chunk.js.map",
+    "index.html": "/quiz-app/index.html",
+    "precache-manifest.334b00963a98865657e4d4246a2e9d9d.js": "/quiz-app/precache-manifest.334b00963a98865657e4d4246a2e9d9d.js",
+    "service-worker.js": "/quiz-app/service-worker.js",
+    "static/js/2.eb65fa21.chunk.js.LICENSE.txt": "/quiz-app/static/js/2.eb65fa21.chunk.js.LICENSE.txt",
+    "static/media/robert-katzki.jpg": "/quiz-app/static/media/robert-katzki.fbfcd3be.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f483d45.js",
+    "static/js/2.eb65fa21.chunk.js",
+    "static/js/main.0def6178.chunk.js"
+  ]
+}
